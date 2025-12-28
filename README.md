@@ -5,8 +5,46 @@
 Section : 02
 Lecturer: Dr. Noorfa Haszlinna Binti Mustaffa
 ```
-This course teaches the basic ideas of discrete structures and how they are used in computer science. It covers important topics like sets, logic, proofs, relations, functions, recurrence relations, counting, graphs, trees, and finite automata. Through these topics, students learn how to solve computer-related problems, think logically, and understand how certain systems and processes work. By the end of the course, students should be able to use these concepts to analyze problems, explain solutions clearly, and model simple electronic or computer systems using state machines.
+The course introduces fundamental discrete structures used in computer science, teaching students logical reasoning and problem-solving skills to analyze problems and model simple computer systems.
+## Topics Covered
+<table>
+  <thead>
+    <tr>
+      <th align="center">Chapter</th>
+      <th align="center">Topic</th>
+      <th align="center">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td>Set Theory & Logic</td>
+      <td><a href="https://bit.ly/DSchap1">Click here</a></td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td>Relations & Functions</td>
+      <td><a href="https://bit.ly/DSchap2">Click here</a></td>
+    </tr>
+    <tr>
+      <td align="center">3</td>
+      <td>Counting Methods & Probability</td>
+      <td><a href="https://bit.ly/DSchap3">Click here</a></td>
+    </tr>
+    <tr>
+      <td align="center">4</td>
+      <td>Graph Theory</td>
+      <td><a href="https://bit.ly/DSchap4">Click here</a></td>
+    </tr>
+    <tr>
+      <td align="center">5</td>
+      <td>Finite Automata</td>
+      <td><a href="https://bit.ly/DSchap5">Click here</a></td>
+    </tr>
+  </tbody>
+</table>
 
+## Assignments & Coursework
 <table>
   <thead>
     <tr>
