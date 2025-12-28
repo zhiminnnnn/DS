@@ -1,6 +1,6 @@
 <div align="justify">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&width=435&lines=SECI1013+Discrete+Structure)](https://git.io/typing-svg)
+# SECI1013 Discrete Structure
 ```yaml
 Section : 02
 Lecturer: Dr. Noorfa Haszlinna Binti Mustaffa
