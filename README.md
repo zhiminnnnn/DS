@@ -19,27 +19,27 @@ The course introduces fundamental discrete structures used in computer science, 
     <tr>
       <td align="center">1</td>
       <td>Set Theory & Logic</td>
-      <td><a href="https://bit.ly/DSchap1">Click here</a></td>
+      <td><a href="">Click here</a></td>
     </tr>
     <tr>
       <td align="center">2</td>
       <td>Relations & Functions</td>
-      <td><a href="https://bit.ly/DSchap2">Click here</a></td>
+      <td><a href="">Click here</a></td>
     </tr>
     <tr>
       <td align="center">3</td>
       <td>Counting Methods & Probability</td>
-      <td><a href="https://bit.ly/DSchap3">Click here</a></td>
+      <td><a href="">Click here</a></td>
     </tr>
     <tr>
       <td align="center">4</td>
       <td>Graph Theory</td>
-      <td><a href="https://bit.ly/DSchap4">Click here</a></td>
+      <td><a href="">Click here</a></td>
     </tr>
     <tr>
       <td align="center">5</td>
       <td>Finite Automata</td>
-      <td><a href="https://bit.ly/DSchap5">Click here</a></td>
+      <td><a href="">Click here</a></td>
     </tr>
   </tbody>
 </table>
