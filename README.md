@@ -1,11 +1,14 @@
 <div align="justify">
+<div align="center">
+  
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=SECI1013+Discrete+Structure)](https://git.io/typing-svg)
+</div>
 
-# SECI1013 Discrete Structure
 ```yaml
 Section : 02
 Lecturer: Dr. Noorfa Haszlinna Binti Mustaffa
 ```
-The course introduces fundamental discrete structures used in computer science, teaching students logical reasoning and problem-solving skills to analyze problems and model simple computer systems.
+_The course introduces fundamental discrete structures used in computer science, teach logical reasoning and problem-solving skills to analyze problems and model simple computer systems._
 ## Topics Covered
 <table>
   <thead>
