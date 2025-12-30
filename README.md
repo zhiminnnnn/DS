@@ -47,11 +47,11 @@ _The course introduces fundamental discrete structures used in computer science,
   </tbody>
 </table>
 
-## Assignments & Coursework
+## Coursework
 <table>
   <thead>
     <tr>
-      <th align="center">Coursework</th>
+      <th align="center">Title</th>
       <th align="center">Link</th>
     </tr>
   </thead>
