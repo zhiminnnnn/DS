@@ -22,27 +22,27 @@ _The course introduces fundamental discrete structures used in computer science,
     <tr>
       <td align="center">1</td>
       <td>Set Theory & Logic</td>
-      <td><a href="https://bit.ly/discrete-structure">Click here</a></td>
+      <td align="center"><a href="https://bit.ly/discrete-structure"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">2</td>
       <td>Relations & Functions</td>
-      <td><a href="https://bit.ly/discrete-structure">Click here</a></td>
+      <td align="center"><a href="https://bit.ly/discrete-structure"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">3</td>
       <td>Counting Methods & Probability</td>
-      <td><a href="https://bit.ly/discrete-structure">Click here</a></td>
+      <td align="center"><a href="https://bit.ly/discrete-structure"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">4</td>
       <td>Graph Theory</td>
-      <td><a href="https://bit.ly/discrete-structure">Click here</a></td>
+      <td align="center"><a href="https://bit.ly/discrete-structure"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">5</td>
       <td>Finite Automata</td>
-      <td><a href="https://bit.ly/discrete-structure">Click here</a></td>
+      <td align="center"><a href="https://bit.ly/discrete-structure"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
   </tbody>
 </table>
@@ -58,11 +58,11 @@ _The course introduces fundamental discrete structures used in computer science,
   <tbody>
     <tr>
       <td>Assignment 1</td>
-      <td><a href="https://github.com/zhiminnnnn/DS/blob/main/Assignment%201.pdf">Click here</a></td>
+      <td align="center"><a href="https://github.com/zhiminnnnn/DS/blob/main/Assignment%201.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td>Assignment 2</td>
-      <td><a href="https://github.com/zhiminnnnn/DS/blob/main/Assignment%202.pdf">Click here</a></td>
+      <td align="center"><a href="https://github.com/zhiminnnnn/DS/blob/main/Assignment%202.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
   </tbody>
 </table>
