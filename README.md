@@ -64,6 +64,10 @@ _The course introduces fundamental discrete structures used in computer science,
       <td>Assignment 2</td>
       <td align="center"><a href="https://github.com/zhiminnnnn/DS/blob/main/Assignment%202.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
+    <tr>
+      <td>Assignment 3</td>
+      <td align="center"><a href="https://github.com/zhiminnnnn/DS/blob/main/Assignment%203.pdf"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+    </tr>
   </tbody>
 </table>
 
