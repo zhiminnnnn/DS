@@ -22,27 +22,27 @@ _The course introduces fundamental discrete structures used in computer science,
     <tr>
       <td align="center">1</td>
       <td>Set Theory & Logic</td>
-      <td align="center"><a href="https://bit.ly/discrete-structure"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1rKR_drU8Ws79Kx-6w2vV089IlmgIKYLr/view?usp=drivesdk"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">2</td>
       <td>Relations & Functions</td>
-      <td align="center"><a href="https://bit.ly/discrete-structure"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1tJdMmL6upnXAQzAhqnTNcdHI6LxzNW4w/view?usp=drivesdk"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">3</td>
       <td>Counting Methods & Probability</td>
-      <td align="center"><a href="https://bit.ly/discrete-structure"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1k1zwuljNXnR0-xVttSyfr8mR8bLsgcej/view?usp=drivesdk"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">4</td>
       <td>Graph Theory</td>
-      <td align="center"><a href="https://bit.ly/discrete-structure"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">5</td>
       <td>Finite Automata</td>
-      <td align="center"><a href="https://bit.ly/discrete-structure"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
   </tbody>
 </table>
