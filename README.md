@@ -37,12 +37,12 @@ _The course introduces fundamental discrete structures used in computer science,
     <tr>
       <td align="center">4</td>
       <td>Graph Theory</td>
-      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1uFFHdvY3lj37W85liQysumv4aEbwOc1m/view?usp=drive_link"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
     <tr>
       <td align="center">5</td>
       <td>Finite Automata</td>
-      <td align="center"><a href=""><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
+      <td align="center"><a href="https://drive.google.com/file/d/1sb7k12T4U4squAR_bXoXky8ePqiR4tg6/view?usp=sharing"><img alt="Static Badge" src="https://img.shields.io/badge/view-blue"></a></td>
     </tr>
   </tbody>
 </table>
