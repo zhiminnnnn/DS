@@ -9,7 +9,7 @@ Section : 02
 Lecturer: Dr. Noorfa Haszlinna Binti Mustaffa
 ```
 _The course introduces fundamental discrete structures used in computer science, teach logical reasoning and problem-solving skills to analyze problems and model simple computer systems._
-## Topics Covered
+## 💡Topics Covered
 <table>
   <thead>
     <tr>
@@ -47,7 +47,7 @@ _The course introduces fundamental discrete structures used in computer science,
   </tbody>
 </table>
 
-## Coursework
+## 📋Coursework
 <table>
   <thead>
     <tr>
@@ -71,6 +71,6 @@ _The course introduces fundamental discrete structures used in computer science,
   </tbody>
 </table>
 
-## Course Reflection
+## 💭Course Reflection
 > _Through this course, I have come to understand the mathematical concepts that underpin the whole field of computer science. Initially, offerings such as set theory, logic, and proof methods were quite abstract and difficult to grasp. Over time, though, I have come to realize the importance of such areas and how they aid with the development of logic, a critical aspect that contributes to the field of computing. These topics of relations, functions, and recurrence relations really fortified my capability for problem analysis. Further, counting methods and probability improved my ability for analysis, particularly for problem-solving in the real world in an efficient manner. Graph theory and trees were among the most interesting parts of the course, as they plainly showed how mathematical theories can be applied in real-life problems such as network design and shortest-path problems. The subject matter on finite automata taught me how real electronic devices can be modeled through mathematical models. Yes, the assignments and quizzes were quite tough, but they ensured that the concepts were well practiced. On the whole, this course has improved my critical thinking skills. Furthermore, this course has now prepared me thoroughly for more advanced computer science courses. I feel that the skills, knowledge, and experience gained through this course shall be extremely valuable to me in the future._
 </div>
